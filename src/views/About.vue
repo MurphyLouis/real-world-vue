@@ -1,5 +1,10 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1 class="this"> Just A site to better the world.</h1>
   </div>
 </template>
+<style>
+.this {
+  font-weight:normal;
+}
+</style>
