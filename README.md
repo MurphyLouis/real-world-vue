@@ -19,6 +19,10 @@ npm run build
 ```
 npm run lint
 ```
+### link to runing app
+```
+https://rw-vue3-kytr.onrender.com/
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
